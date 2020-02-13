@@ -1,0 +1,60 @@
+linear search (on 50000-item array): total search time = 777ms. Average search time = 0.01554ms.
+linear search (on 100000-item array): total search time = 1534ms. Average search time = 0.01534ms.
+linear search (on 150000-item array): total search time = 1968ms. Average search time = 0.01312ms.
+linear search (on 200000-item array): total search time = 2141ms. Average search time = 0.010705ms.
+linear search (on 250000-item array): total search time = 2697ms. Average search time = 0.010788ms.
+linear search (on 300000-item array): total search time = 3172ms. Average search time = 0.010573333ms.
+linear search (on 350000-item array): total search time = 3720ms. Average search time = 0.010628572ms.
+linear search (on 400000-item array): total search time = 4224ms. Average search time = 0.01056ms.
+linear search (on 450000-item array): total search time = 4717ms. Average search time = 0.010482222ms.
+linear search (on 500000-item array): total search time = 5294ms. Average search time = 0.010588ms.
+binary-recursive search (on 50000-item array): total search time = 5ms. Average search time = 1.0E-4ms.
+binary-recursive search (on 100000-item array): total search time = 6ms. Average search time = 6.0E-5ms.
+binary-recursive search (on 150000-item array): total search time = 5ms. Average search time = 3.3333334E-5ms.
+binary-recursive search (on 200000-item array): total search time = 6ms. Average search time = 3.0E-5ms.
+binary-recursive search (on 250000-item array): total search time = 7ms. Average search time = 2.8E-5ms.
+binary-recursive search (on 300000-item array): total search time = 3ms. Average search time = 1.0E-5ms.
+binary-recursive search (on 350000-item array): total search time = 4ms. Average search time = 1.1428571E-5ms.
+binary-recursive search (on 400000-item array): total search time = 3ms. Average search time = 7.5E-6ms.
+binary-recursive search (on 450000-item array): total search time = 4ms. Average search time = 8.888889E-6ms.
+binary-recursive search (on 500000-item array): total search time = 4ms. Average search time = 8.0E-6ms.
+binary-iterative search (on 50000-item array): total search time = 5ms. Average search time = 1.0E-4ms.
+binary-iterative search (on 100000-item array): total search time = 4ms. Average search time = 4.0E-5ms.
+binary-iterative search (on 150000-item array): total search time = 7ms. Average search time = 4.6666668E-5ms.
+binary-iterative search (on 200000-item array): total search time = 2ms. Average search time = 1.0E-5ms.
+binary-iterative search (on 250000-item array): total search time = 2ms. Average search time = 8.0E-6ms.
+binary-iterative search (on 300000-item array): total search time = 2ms. Average search time = 6.6666666E-6ms.
+binary-iterative search (on 350000-item array): total search time = 2ms. Average search time = 5.7142856E-6ms.
+binary-iterative search (on 400000-item array): total search time = 2ms. Average search time = 5.0E-6ms.
+binary-iterative search (on 450000-item array): total search time = 4ms. Average search time = 8.888889E-6ms.
+binary-iterative search (on 500000-item array): total search time = 4ms. Average search time = 8.0E-6ms.
+selection sort (on 50000-item array): total sorting time = 1358ms.
+selection sort (on 100000-item array): total sorting time = 5382ms.
+selection sort (on 150000-item array): total sorting time = 9471ms.
+selection sort (on 200000-item array): total sorting time = 16837ms.
+selection sort (on 250000-item array): total sorting time = 26270ms.
+selection sort (on 300000-item array): total sorting time = 38084ms.
+selection sort (on 350000-item array): total sorting time = 51525ms.
+selection sort (on 400000-item array): total sorting time = 67679ms.
+selection sort (on 450000-item array): total sorting time = 85049ms.
+selection sort (on 500000-item array): total sorting time = 104494ms.
+bubble sort (on 50000-item array): total sorting time = 4324ms.
+bubble sort (on 100000-item array): total sorting time = 17693ms.
+bubble sort (on 150000-item array): total sorting time = 27194ms.
+bubble sort (on 200000-item array): total sorting time = 48275ms.
+bubble sort (on 250000-item array): total sorting time = 75567ms.
+bubble sort (on 300000-item array): total sorting time = 108857ms.
+bubble sort (on 350000-item array): total sorting time = 148054ms.
+bubble sort (on 400000-item array): total sorting time = 193375ms.
+bubble sort (on 450000-item array): total sorting time = 482986ms.
+bubble sort (on 500000-item array): total sorting time = 303089ms.
+insertion sort (on 50000-item array): total sorting time = 2ms.
+insertion sort (on 100000-item array): total sorting time = 0ms.
+insertion sort (on 150000-item array): total sorting time = 0ms.
+insertion sort (on 200000-item array): total sorting time = 1ms.
+insertion sort (on 250000-item array): total sorting time = 1ms.
+insertion sort (on 300000-item array): total sorting time = 1ms.
+insertion sort (on 350000-item array): total sorting time = 1ms.
+insertion sort (on 400000-item array): total sorting time = 1ms.
+insertion sort (on 450000-item array): total sorting time = 1ms.
+insertion sort (on 500000-item array): total sorting time = 1ms.
